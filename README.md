@@ -2,6 +2,9 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+#### Server repository
+[https://github.com/tevon456/barita-coupon-module-client](https://github.com/tevon456/barita-coupon-module-backend)
+
 ## Setup
 
 Make sure to install the dependencies:
